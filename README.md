@@ -48,21 +48,6 @@ Currently: Working on improving user experience and expanding features for ZenBl
 
 > Note: Projects above are selected based on stars, activity, releases, and usefulness. Check each repo for installation instructions, releases, and usage.
 
-## Recent Activity ⚡
-
-Here are some of my latest GitHub events (most recent first):
-
-- 🔁 Pushed updates to [ZenBLock](https://github.com/Saqib791/ZenBLock) — (PushEvent) 2026-05-30T20:02:56Z
-- 🏷️ Published release for [ZenBLock](https://github.com/Saqib791/ZenBLock) — Release "V_0.1" (published) 2026-05-30T20:00:49Z
-- 🔁 Pushed to [ZenBLock](https://github.com/Saqib791/ZenBLock) — (PushEvent) 2026-05-30T19:54:32Z
-- 🌱 Created branch and repo updates for [ZenBLock] — (CreateEvent) 2026-05-30T19:45:26Z
-- 🔁 Pushed updates to [screenshot-to-text-extractor-with-paint](https://github.com/Saqib791/screenshot-to-text-extractor-with-paint) — (PushEvent) 2026-05-30T17:41:47Z
-- 🔁 Pushed updates to [Saqib-App-Store](https://github.com/Saqib791/Saqib-App-Store) — (PushEvent) 2026-05-30T17:40:22Z
-- 🔁 Pushed updates to [money_manager_for_hostel](https://github.com/Saqib791/money_manager_for_hostel) — (PushEvent) 2026-05-30T17:39:16Z
-- 🔁 Pushed updates to [usable-python-project](https://github.com/Saqib791/usable-python-project) — (PushEvent) 2026-05-30T17:30:31Z
-
-You can follow my public activity on my GitHub profile: https://github.com/Saqib791
-
 ## Latest Blog Posts 📝
 
 I don't currently have a public blog linked to my GitHub profile. If and when I publish technical articles or tutorials, I'll list them here. In the meantime, you can follow project READMEs and release notes for walkthroughs and usage guides.
