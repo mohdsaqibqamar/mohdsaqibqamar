@@ -1,18 +1,94 @@
-### Hi there, I'm Mohd Saqib Qamar! 👋
+## Hi there! 👋
 
-I apply my analytical skills across a versatile tech stack to build highly useful tools and applications that automate your daily repetitive tasks. I specialize in crafting practical micro-utilities complete with sleek, professional dark-themed GUIs. By smartly leveraging AI in my workflow, I deliver fast, bug-free results with extremely quick turnarounds and lower development costs.
+# Hi there! 👋
 
----
+I'm **Mohd Saqib Qamar** (Saqib791) — a curious student and aspiring software developer. I build practical tools and apps that make everyday life easier (focus tools, time managers, OCR utilities, and more). 🚀
 
-### 🛠️ Tech Stack & Skills
+Tagline: Building useful tools, learning fast, shipping often. ⚙️
 
-* **Languages:** Python, Rust, Kotlin, Dart, JavaScript, HTML/CSS
-* **Specialties:** Workflow Automation, Micro-utilities, AI-Assisted Development, Custom GUI Design
+## About Me
 
----
+## About Me
 
-### 🚀 What I Build
+- Name: Mohd Saqib Qamar (GitHub: [Saqib791](https://github.com/Saqib791))
+- Role: Student · Developer · Maker 🎓💻
+- Bio: _curious student_
+- GitHub: Joined April 2025 — actively building and releasing projects (desktop & mobile apps, small utilities).
 
-* **File & Directory Management:** 1-click folder organization systems and desktop utilities designed to sort and structure your files automatically.
-* **PDF Utilities:** Custom PDF editors, page removers, and seamless conversion tools tailored for quick document processing.
-* **Daily Automation:** Applications designed to calculate, track, and simplify repetitive daily routines or data management tasks.
+I enjoy solving everyday problems with simple, practical software — from focus tools (ZenBlock) to productivity apps (TimeManager) and handy Python utilities. I publish releases, experiment with desktop installers and mobile apps, and share projects that other students and makers can use.
+
+Currently: Working on improving user experience and expanding features for ZenBlock and polishing a set of Python/Dart utilities. ✨
+
+## Skills & Technologies
+
+rust,html,py,dart,flutter,androidstudio,git,github,githubactions,bootstrap,css,windows,linux,sqlite
+
+## Top Projects
+
+## Top Projects
+
+1. [TimeManager](https://github.com/Saqib791/TimeManager) ⭐️ 3
+   - Description: A simple Time Management app to track tasks, schedule events, and increase productivity.
+   - Primary language: Dart
+   - Stars: 3 · Forks: 0 · Open issues: 1
+
+2. [screenshot-to-text-extractor-with-paint](https://github.com/Saqib791/screenshot-to-text-extractor-with-paint) ⭐️ 1
+   - Description: Lightweight screenshot-to-text extractor using Tesseract OCR. Edit screenshots in Paint before extracting text.
+   - Primary language: Python
+   - Stars: 1 · Forks: 0 · Open issues: 0
+
+3. [Saqib-App-Store](https://github.com/Saqib791/Saqib-App-Store) ⭐️ 1
+   - Description: HTML collection of tools for working with PDFs and other student-focused utilities.
+   - Primary language: HTML
+   - Stars: 1 · Forks: 0 · Open issues: 0 · GitHub Pages enabled
+
+4. [apk_data](https://github.com/Saqib791/apk_data) ⭐️ 1
+   - Description: APKs and tools used in Saqib App Store.
+   - Primary language: (various)
+   - Stars: 1 · Forks: 0
+
+5. [ZenBLock](https://github.com/Saqib791/ZenBLock) ⭐️ 0
+   - Description: ZenBlock is a focusing tool (desktop) — session timers, domain blocking, ambient sounds, and analytics. Official release published with installers (.exe/.msi).
+   - Primary language: HTML (project contains desktop assets; core described as Rust)
+   - Stars: 0 · Forks: 0 · Releases: published (V_0.1) 
+
+> Note: Projects above are selected based on stars, activity, releases, and usefulness. Check each repo for installation instructions, releases, and usage.
+
+## Recent Activity
+
+## Recent Activity ⚡
+
+Here are some of my latest GitHub events (most recent first):
+
+- 🔁 Pushed updates to [ZenBLock](https://github.com/Saqib791/ZenBLock) — (PushEvent) 2026-05-30T20:02:56Z
+- 🏷️ Published release for [ZenBLock](https://github.com/Saqib791/ZenBLock) — Release "V_0.1" (published) 2026-05-30T20:00:49Z
+- 🔁 Pushed to [ZenBLock](https://github.com/Saqib791/ZenBLock) — (PushEvent) 2026-05-30T19:54:32Z
+- 🌱 Created branch and repo updates for [ZenBLock] — (CreateEvent) 2026-05-30T19:45:26Z
+- 🔁 Pushed updates to [screenshot-to-text-extractor-with-paint](https://github.com/Saqib791/screenshot-to-text-extractor-with-paint) — (PushEvent) 2026-05-30T17:41:47Z
+- 🔁 Pushed updates to [Saqib-App-Store](https://github.com/Saqib791/Saqib-App-Store) — (PushEvent) 2026-05-30T17:40:22Z
+- 🔁 Pushed updates to [money_manager_for_hostel](https://github.com/Saqib791/money_manager_for_hostel) — (PushEvent) 2026-05-30T17:39:16Z
+- 🔁 Pushed updates to [usable-python-project](https://github.com/Saqib791/usable-python-project) — (PushEvent) 2026-05-30T17:30:31Z
+
+You can follow my public activity on my GitHub profile: https://github.com/Saqib791
+
+## Latest Blog Posts
+
+## Latest Blog Posts 📝
+
+I don't currently have a public blog linked to my GitHub profile. If and when I publish technical articles or tutorials, I'll list them here. In the meantime, you can follow project READMEs and release notes for walkthroughs and usage guides.
+
+If you have a suggestion for a tutorial (Rust, Flutter, OCR, or productivity tools), feel free to reach out!
+
+## Connect with Me
+
+{"generic":"https://www.fiverr.com/s/pdEYNol","instagram":"https://www.instagram.com/mohdsaqibqamar/"}
+
+## Currently Working On / Learning
+
+## Currently Working On & Learning 🚧
+
+- Working on: ZenBlock — releasing and improving the desktop focus tool (recent release: V_0.1). 🛠️
+- Working on: TimeManager — improving stability and UX for task scheduling. 📆
+- Learning: Advanced Rust for desktop tooling and improving Flutter/Dart skills for mobile apps. 📚
+
+If you'd like to collaborate or test early builds, ping me via GitHub issues or DMs on Instagram.
