@@ -17,7 +17,7 @@ Currently: Working on improving user experience and expanding features for ZenBl
 
 ## Skills & Technologies
 
-rust,html,py,dart,flutter,androidstudio,git,github,githubactions,bootstrap,css,windows,linux,sqlite
+[![My Skills](https://skillicons.dev/icons?i=rust,html,py,dart,flutter,androidstudio,git,github,githubactions,bootstrap,css,windows,linux,sqlite&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
