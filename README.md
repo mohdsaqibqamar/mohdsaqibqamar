@@ -1,5 +1,3 @@
-Here is a GitHub profile README tailored for you. You can copy and paste this directly into your `saqib791/saqib791` repository.
-
 ### Hi there, I'm Mohd Saqib Qamar! 👋
 
 I am a developer and academic learner bridging the gap between the physical sciences and software engineering. Whether I am studying thermodynamics and cell biology or writing custom firmware for IoT devices, I love diving deep into complex systems.
