@@ -1,12 +1,8 @@
-## Hi there! 👋
-
 # Hi there! 👋
 
 I'm **Mohd Saqib Qamar** (Saqib791) — a curious student and aspiring software developer. I build practical tools and apps that make everyday life easier (focus tools, time managers, OCR utilities, and more). 🚀
 
 Tagline: Building useful tools, learning fast, shipping often. ⚙️
-
-## About Me
 
 ## About Me
 
@@ -22,8 +18,6 @@ Currently: Working on improving user experience and expanding features for ZenBl
 ## Skills & Technologies
 
 rust,html,py,dart,flutter,androidstudio,git,github,githubactions,bootstrap,css,windows,linux,sqlite
-
-## Top Projects
 
 ## Top Projects
 
@@ -54,8 +48,6 @@ rust,html,py,dart,flutter,androidstudio,git,github,githubactions,bootstrap,css,w
 
 > Note: Projects above are selected based on stars, activity, releases, and usefulness. Check each repo for installation instructions, releases, and usage.
 
-## Recent Activity
-
 ## Recent Activity ⚡
 
 Here are some of my latest GitHub events (most recent first):
@@ -71,8 +63,6 @@ Here are some of my latest GitHub events (most recent first):
 
 You can follow my public activity on my GitHub profile: https://github.com/Saqib791
 
-## Latest Blog Posts
-
 ## Latest Blog Posts 📝
 
 I don't currently have a public blog linked to my GitHub profile. If and when I publish technical articles or tutorials, I'll list them here. In the meantime, you can follow project READMEs and release notes for walkthroughs and usage guides.
@@ -80,12 +70,9 @@ I don't currently have a public blog linked to my GitHub profile. If and when I 
 If you have a suggestion for a tutorial (Rust, Flutter, OCR, or productivity tools), feel free to reach out!
 
 ## Connect with Me
-
-{"generic":"https://www.fiverr.com/s/pdEYNol","instagram":"https://www.instagram.com/mohdsaqibqamar/"}
+<a href="https://www.fiverr.com/s/pdEYNol" target="_blank" rel="noopener noreferrer"><Icon /> Generic</a> | <a href="https://www.instagram.com/mohdsaqibqamar/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a>
 
 ## Currently Working On / Learning
-
-## Currently Working On & Learning 🚧
 
 - Working on: ZenBlock — releasing and improving the desktop focus tool (recent release: V_0.1). 🛠️
 - Working on: TimeManager — improving stability and UX for task scheduling. 📆
