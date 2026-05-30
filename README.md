@@ -10,8 +10,6 @@ I specialize in building efficient utilities, exploring network security, and cr
 
 * **Languages:** Python, JavaScript, HTML/CSS
 * **Security & Networking:** Nmap, Kali Linux, Wi-Fi Testing
-* **Virtualization & Environments:** QEMU, Sandboxie
-* **Hardware & IoT:** Tasmota custom firmware, Nvidia GPU optimization
 * **Concepts:** Physics performance, UI/UX design, Automation
 
 ---
