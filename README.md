@@ -1,31 +1,18 @@
 ### Hi there, I'm Mohd Saqib Qamar! 👋
 
-I am a developer and academic learner bridging the gap between the physical sciences and software engineering. Whether I am studying thermodynamics and cell biology or writing custom firmware for IoT devices, I love diving deep into complex systems.
-
-I specialize in building efficient utilities, exploring network security, and creating clean, professional, dark-themed user interfaces.
+I apply my analytical skills across a versatile tech stack to build highly useful tools and applications that automate your daily repetitive tasks. I specialize in crafting practical micro-utilities complete with sleek, professional dark-themed GUIs. By smartly leveraging AI in my workflow, I deliver fast, bug-free results with extremely quick turnarounds and lower development costs.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-* **Languages:** Python, JavaScript, HTML/CSS
-* **Security & Networking:** Nmap, Kali Linux, Wi-Fi Testing
-* **Concepts:** Physics performance, UI/UX design, Automation
-
----
-
-### 🚀 Featured Projects
-
-* **Automated Solution Organizer:** A Python-based desktop application with a custom graphical interface designed to alphabetically sort and manage files into structured directories.
-* **Expense & Tiffin Manager:** A digital tracking system built with HTML and JSON to calculate monthly expenses, track average spending, and manage daily meal plans.
-* **PDF Conversion Utilities:** A suite of professional tools built to seamlessly convert and manage PDF documents and reports.
+* **Languages:** Python, Rust, Kotlin, Dart, JavaScript, HTML/CSS
+* **Specialties:** Workflow Automation, Micro-utilities, AI-Assisted Development, Custom GUI Design
 
 ---
 
-### 🔭 What I'm Currently Working On
+### 🚀 What I Build
 
-* Exploring virtualization limits and troubleshooting sandbox environments.
-* Building lightweight, functional UI applications in Python.
-* Applying concepts of linear momentum and biodiversity into logic and data structures.
-
-> *"Always learning, always building, and always optimizing."*
+* **File & Directory Management:** 1-click folder organization systems and desktop utilities designed to sort and structure your files automatically.
+* **PDF Utilities:** Custom PDF editors, page removers, and seamless conversion tools tailored for quick document processing.
+* **Daily Automation:** Applications designed to calculate, track, and simplify repetitive daily routines or data management tasks.
