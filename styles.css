@@ -21,6 +21,10 @@
     box-sizing: border-box;
 }
 
+html, body {
+    overflow-x: hidden;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -133,6 +137,24 @@ a {
 
 .nav-links a:hover {
     color: var(--primary-color);
+}
+
+.header-socials {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.header-socials a {
+    color: var(--text-primary);
+    transition: var(--transition);
+    display: flex;
+    align-items: center;
+}
+
+.header-socials a:hover {
+    color: var(--primary-color);
+    transform: translateY(-2px);
 }
 
 /* Hero Section */
@@ -402,6 +424,10 @@ a {
 }
 
 @media (max-width: 768px) {
+    .container {
+        padding: 0 1.5rem;
+    }
+
     .section {
         padding: 3rem 0;
     }
@@ -446,6 +472,7 @@ a {
         flex-direction: column;
         height: auto;
         padding: 1rem 0;
+        gap: 1rem;
     }
     
     .nav-links {
