@@ -101,12 +101,8 @@ a {
 
 /* Header */
 .header {
-    position: fixed;
-    top: 0;
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(5px);
-    z-index: 1000;
+    background-color: var(--bg-color);
     border-bottom: 1px solid #eaeaea;
 }
 
@@ -140,7 +136,7 @@ a {
 }
 
 .header-socials {
-    display: flex;
+    display: none;
     gap: 1rem;
     align-items: center;
 }
@@ -163,8 +159,8 @@ a {
     grid-template-columns: 1fr 1fr;
     gap: 4rem;
     align-items: center;
-    min-height: 100vh;
-    padding-top: 80px;
+    min-height: calc(100vh - 80px);
+    padding-top: 2rem;
 }
 
 .badge {
@@ -443,7 +439,7 @@ a {
     .hero {
         grid-template-columns: 1fr;
         text-align: center;
-        padding-top: 120px;
+        padding-top: 4rem;
         gap: 2rem;
     }
     
@@ -485,6 +481,10 @@ a {
 
     .nav-links a {
         font-size: 0.95rem;
+    }
+    
+    .header-socials {
+        display: flex;
     }
     
     .services-grid, .projects-grid {
