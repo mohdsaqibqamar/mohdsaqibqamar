@@ -101,8 +101,12 @@ a {
 
 /* Header */
 .header {
+    position: fixed;
+    top: 0;
     width: 100%;
-    background-color: var(--bg-color);
+    background-color: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(5px);
+    z-index: 1000;
     border-bottom: 1px solid #eaeaea;
 }
 
@@ -159,8 +163,8 @@ a {
     grid-template-columns: 1fr 1fr;
     gap: 4rem;
     align-items: center;
-    min-height: calc(100vh - 80px);
-    padding-top: 2rem;
+    min-height: 100vh;
+    padding-top: 100px;
 }
 
 .badge {
@@ -422,6 +426,10 @@ a {
 @media (max-width: 768px) {
     .container {
         padding: 0 1.5rem;
+    }
+
+    .header {
+        position: relative;
     }
 
     .section {
