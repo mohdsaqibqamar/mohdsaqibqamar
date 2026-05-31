@@ -449,8 +449,13 @@ a {
     
     .hero-cta {
         justify-content: center;
-        flex-direction: column;
+        flex-direction: row;
         gap: 1rem;
+    }
+    
+    .hero-cta .btn {
+        padding: 0.8rem 1rem;
+        font-size: 0.9rem;
     }
     
     .about-grid, .about-me-grid, .stats-grid {
