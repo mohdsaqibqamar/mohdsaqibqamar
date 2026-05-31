@@ -6,7 +6,7 @@ Tagline: Building useful tools, learning fast, shipping often. ⚙️
 
 ## About Me
 
-- Name: Mohd Saqib Qamar (GitHub: [Saqib791](https://github.com/Saqib791))
+- Name: Mohd Saqib Qamar (GitHub: [Saqib791](https://github.com/mohdsaqibqamar))
 - Role: Student · Developer · Maker 🎓💻
 - Bio: _curious student_
 - GitHub: Joined April 2025 — actively building and releasing projects (desktop & mobile apps, small utilities).
