@@ -414,6 +414,10 @@ a {
 }
 
 /* Responsive */
+.mobile-only {
+    display: none !important;
+}
+
 @media (max-width: 1024px) {
     .services-grid, .projects-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -453,6 +457,17 @@ a {
     
     .hero-subtitle {
         margin: 0 auto 2rem auto;
+    }
+
+    .desktop-only {
+        display: none !important;
+    }
+
+    .mobile-only {
+        display: flex !important;
+        justify-content: center;
+        flex-direction: row;
+        gap: 1rem;
     }
     
     .hero-cta {
